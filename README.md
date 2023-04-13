@@ -11,7 +11,7 @@ Current Rearching：
 * TinyRender
 * Distributed Development
 * Nice Script Developer
-* Write some toy application, such as: Triangle Render/ VM for Assembly language/ RAFT development
+* Write some toy application, such as: Triangle Render/ VM for Assembly language/ RAFT 
 * ...
 <!--
 **KevinJey/KevinJey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
