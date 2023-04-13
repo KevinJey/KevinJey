@@ -1,10 +1,11 @@
-### Jonathan Hu 👋
+### Introduction👋
 
 Hi there! My name is Jonathan Hu, and I'm an aspiring software engineer with a passion for C++, AMD Development, and learning new technologies.  Currently, I am working as an Intern at AMD on the development of their next-generation processor line while pursuing my studies in Computer Science from University Yangzhou.
 I have been coding since middle school when I first started with C and VB; ever since then, programming has become a passionate hobby that I am eager to turn into an exciting career!  In the past few years, I've taken on various freelance projects in C++, python development as well as software design.
 I strongly believe my enthusiasm for coding and strong technical background make me a great candidate for this position or any other related to software engineering. Thank you very much!
 
-Current Rearching：
+### Current Rearching：
+
 * C++
 * Python
 * Golang
